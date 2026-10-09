@@ -1,0 +1,12 @@
+__pycache__
+VOCdevkit
+checkpoints
+.vscode
+*.pyc
+.idea/
+results
+checkpoints_bak
+cityscapes
+test_results
+.DS_Store
+*.pkl
